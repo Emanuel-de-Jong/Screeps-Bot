@@ -1,6 +1,7 @@
 # Screeps-Bot
  
 ## Information
+- Type: Bot
 - Language: English
 - Programming language: Javascript
 - Framework: Screeps
