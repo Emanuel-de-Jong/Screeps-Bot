@@ -1,0 +1,17 @@
+v0.5
+
+features to add:
+- creep harvesting outside of room
+- source distribution more balanced
+- towers heal and repair in certain range
+- auto structure placing
+- multi rooming
+- prioritize non loop creep spawns
+- if bodyParts >= sum of ratio
+- energy check somewhere
+
+bugs to fix:
+- tower doesn't work
+
+others:
+-
