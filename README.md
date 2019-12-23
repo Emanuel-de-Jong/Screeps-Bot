@@ -12,8 +12,8 @@ It's mostly a template for now.
 	
 	
 ## Progress
-- Start date: 10.07.2019
-- Last change: 16.07.2019
+- Start date: 30.05.19
+- Last change: 06.06.19
 - Activity status: Paused
 - Reason activity status: I wanted to become better at programming before I started taking it seriously
 - Completion status: 35%
