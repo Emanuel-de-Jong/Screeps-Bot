@@ -7,6 +7,7 @@ It's mostly a template for now.
 
 ## Information
 - Type: Bot
+- For: Screeps
 - Programming languages: Javascript
 - Frameworks and libraries: Screeps
 	
