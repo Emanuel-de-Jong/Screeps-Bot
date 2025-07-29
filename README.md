@@ -1,4 +1,4 @@
-# Screeps-Bot
+# Screeps Bot
  
 ## Description
 A bot for the game: screeps.com
