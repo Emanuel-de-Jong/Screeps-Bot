@@ -1,6 +1,5 @@
 # Screeps Bot
-A bot for the game: screeps.com
-It's mostly a template for now.
+A bot for the programming base building game [Screeps](https://screeps.com/). Build to be very expandable.
 
 **Active Development:** <br>
 **Last Change:** <br>
