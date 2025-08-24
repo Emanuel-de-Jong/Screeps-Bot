@@ -16,8 +16,8 @@ It's mostly a template for now.
 - Frameworks and libraries: Screeps
 
 ## Progress
-- Start date: 30.05.19
-- Last change: 06.06.19
+- Start date: 2019-05-30
+- Last change: 2019-06-06
 - Activity status: Paused
 - Reason activity status: I wanted to become better at programming before I started taking it seriously
 - Completion status: 35%
