@@ -1,17 +1,20 @@
 # Screeps Bot
- 
-## Description
 A bot for the game: screeps.com
 It's mostly a template for now.
 
+**Active Development:** <br>
+**Last Change:** <br>
+
+| | |
+| :---: | :---: |
+| ![](/Screenshots/1-Base.png) | ![](/Screenshots/.png) |
 
 ## Information
 - Type: Bot
 - For: Screeps
 - Programming languages: Javascript
 - Frameworks and libraries: Screeps
-	
-	
+
 ## Progress
 - Start date: 30.05.19
 - Last change: 06.06.19
@@ -25,7 +28,3 @@ It's mostly a template for now.
 - Main features missing: 
 	- Defense
 	- Base expansion
-
-
-## Screenshots
-![Base](/Screenshots/Base.png)
