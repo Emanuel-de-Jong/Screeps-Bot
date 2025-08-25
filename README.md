@@ -1,8 +1,8 @@
 # Screeps Bot
 A bot for the programming base building game [Screeps](https://screeps.com/). Build to be very expandable.
 
-**Active Development:** <br>
-**Last Change:** <br>
+**Active Development:** 2019-05-30 - 2019-06-06<br>
+**Last Change:** 2019-06-06<br>
 
 | | |
 | :---: | :---: |
@@ -15,9 +15,7 @@ A bot for the programming base building game [Screeps](https://screeps.com/). Bu
 - Frameworks and libraries: Screeps
 
 ## Progress
-- Start date: 2019-05-30
-- Last change: 2019-06-06
-- Activity status: Paused
+- Activity status: Ended
 - Reason activity status: I wanted to become better at programming before I started taking it seriously
 - Completion status: 35%
 - Useable: Yes
